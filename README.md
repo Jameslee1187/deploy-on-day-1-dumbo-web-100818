@@ -22,7 +22,7 @@ Welcome to Flatiron! Every semester, we create student index pages to help in th
 
 ## Assignment
 
-Your assignment is to create a student profile for someone sitting at your table. By the end of this project, every student should have a profile for themselves that was created by someone else and every student should have created a profile for someone else. If you're sitting at a table of four, it might be easiest to pair up. If you're sitting at a table of three, it might be easiest to create the profile of the student clockwise to you. If you're sitting at a...well you get the picture.
+Your assignmcent is to create a student profile for someone sitting at your table. By the end of this project, every student should have a profile for themselves that was created by someone else and every student should have created a profile for someone else. If you're sitting at a table of four, it might be easiest to pair up. If you're sitting at a table of three, it might be easiest to create the profile of the student clockwise to you. If you're sitting at a...well you get the picture.
 
 Now if you're anything like me, you might be freaking out and wondering, "Am I making a webapp?!?!" Not today — we'll just working with HTML and file structures. You don't need to know Rails, JavaScript, or even Ruby for this project. And your classmates and instructors are here to help!
 
